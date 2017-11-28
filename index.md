@@ -17,6 +17,6 @@ This is my 360 image
 
 ### Camera Effects
 
-batman(1)
+batman (1).png
 
 ***
